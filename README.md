@@ -1,3 +1,4 @@
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](COPIED-URL)
 # solid-code-along
 
 Code Along used for Educational Purposes
